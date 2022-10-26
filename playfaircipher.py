@@ -1,14 +1,3 @@
-# tugasplayfaircipher
-![img](/tugasplayfaircipher/gambar/gambar1.png)
-![img](/tugasplayfaircipher/gambar/gambar2.png)
-![img](/tugasplayfaircipher/gambar/gambar3.png)
-![img](/tugasplayfaircipher/gambar/gambar4.png)
-
-## Link Replit
-https://replit.com/@MuhammadChoerum/playfaircipher#main.py
-
-## Codingan
-
 #CONTACT FOR ANY QUESTIONS
 #CODERATRI-ATRISAXENA2@GMAIL.COM
 #See this example: https://www.javatpoint.com/playfair-cipher-program-in-java
@@ -108,8 +97,3 @@ while(1):
         exit()
     else:
         print("Choose correct choice")
-
-
-
-
-
