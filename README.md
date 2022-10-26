@@ -1,8 +1,13 @@
+ Nama      | Muhammad Choeruman Syah |
+| ----------- | ----------- |
+| NIM     | 312010031       |
+| Kelas   | TI.20.A.1        |
+
 # tugasplayfaircipher
-[img](/tugasplayfaircipher/gambar/gambar1.png)
-[img](/tugasplayfaircipher/gambar/gambar2.png)
-[img](/tugasplayfaircipher/gambar/gambar3.png)
-[img](/tugasplayfaircipher/gambar/gambar4.png)
+![img1](/gambar/gambar1.png)
+![img2](/gambar/gambar2.png)
+![img3](/gambar/gambar3.png)
+![img4](/gambar/gambar4.png)
 
 ## Link Replit
 https://replit.com/@MuhammadChoerum/playfaircipher#main.py
